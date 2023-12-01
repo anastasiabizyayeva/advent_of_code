@@ -1,6 +1,5 @@
 from get_input import get_advent_of_code_input
 
-
 calibration_lines = get_advent_of_code_input(2023, 1)
 
 def part_one(calibration_lines: list) -> int:
