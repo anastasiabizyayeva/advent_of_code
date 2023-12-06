@@ -49,5 +49,5 @@ def part_two(race_details):
 
     return winning_ways
 
-# print(part_one(race_details))
+print(part_one(race_details))
 print(part_two(race_details))
